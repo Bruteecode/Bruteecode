@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Chopra</h1>
 <h3 align="center">A passionate full stack Developer from India</h3>
 
-- 🔭 I’m currently working on [ShopAdda](shop-adda.vercel.app/home.html)
-
 - 🌱 I’m currently learning **React.js and Node.js**
 
 - 📫 How to reach me **Akashchopra2143@gmail.com**
